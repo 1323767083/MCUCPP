@@ -1,0 +1,20 @@
+mklink C:\Users\jfhu\Documents\PlatformIO\Projects\nano\include\command.hpp   C:\Users\jfhu\Documents\workspace_c\MCUCPP\src\command.hpp  
+mklink C:\Users\jfhu\Documents\PlatformIO\Projects\nano\include\fun.hpp   C:\Users\jfhu\Documents\workspace_c\MCUCPP\src\fun.hpp
+mklink C:\Users\jfhu\Documents\PlatformIO\Projects\nano\include\gdef.hpp   C:\Users\jfhu\Documents\workspace_c\MCUCPP\src\gdef.hpp
+mklink C:\Users\jfhu\Documents\PlatformIO\Projects\nano\include\gerror.hpp   C:\Users\jfhu\Documents\workspace_c\MCUCPP\src\gerror.hpp
+mklink C:\Users\jfhu\Documents\PlatformIO\Projects\nano\include\mqtt.hpp   C:\Users\jfhu\Documents\workspace_c\MCUCPP\src\mqtt.hpp
+mklink C:\Users\jfhu\Documents\PlatformIO\Projects\nano\include\msg.hpp   C:\Users\jfhu\Documents\workspace_c\MCUCPP\src\msg.hpp
+mklink C:\Users\jfhu\Documents\PlatformIO\Projects\nano\include\NBIOT.hpp   C:\Users\jfhu\Documents\workspace_c\MCUCPP\src\NBIOT.hpp
+mklink C:\Users\jfhu\Documents\PlatformIO\Projects\nano\include\rest.hpp   C:\Users\jfhu\Documents\workspace_c\MCUCPP\src\rest.hpp
+
+
+mklink C:\Users\jfhu\Documents\PlatformIO\Projects\nano\src\fun_arduino.cpp C:\Users\jfhu\Documents\workspace_c\MCUCPP\src\fun_arduino.cpp
+mklink C:\Users\jfhu\Documents\PlatformIO\Projects\nano\src\fun_pc.cpp C:\Users\jfhu\Documents\workspace_c\MCUCPP\src\fun_pc.cpp
+mklink C:\Users\jfhu\Documents\PlatformIO\Projects\nano\src\gdef.cpp C:\Users\jfhu\Documents\workspace_c\MCUCPP\src\gdef.cpp
+mklink C:\Users\jfhu\Documents\PlatformIO\Projects\nano\src\main_arduino.cpp C:\Users\jfhu\Documents\workspace_c\MCUCPP\src\main_arduino.cpp
+mklink C:\Users\jfhu\Documents\PlatformIO\Projects\nano\src\main_pc.cpp C:\Users\jfhu\Documents\workspace_c\MCUCPP\src\main_pc.cpp
+mklink C:\Users\jfhu\Documents\PlatformIO\Projects\nano\src\mqtt.cpp C:\Users\jfhu\Documents\workspace_c\MCUCPP\src\mqtt.cpp
+mklink C:\Users\jfhu\Documents\PlatformIO\Projects\nano\src\NBIOT.cpp C:\Users\jfhu\Documents\workspace_c\MCUCPP\src\NBIOT.cpp
+mklink C:\Users\jfhu\Documents\PlatformIO\Projects\nano\src\rest.cpp C:\Users\jfhu\Documents\workspace_c\MCUCPP\src\rest.cpp
+
+
